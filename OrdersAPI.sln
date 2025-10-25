@@ -1,6 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+VisualStudioVersion = 17.14.36603.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersAPI", "OrdersAPI.csproj", "{EA4B5DE2-9A10-6F25-D941-ACA5AB610D55}"
 EndProject
@@ -19,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D066EC97-1129-4563-8736-CFDDA20C8A43}
+		SolutionGuid = {CCAE984D-D942-4E0A-B2C1-8039BE0DDE56}
 	EndGlobalSection
 EndGlobal
